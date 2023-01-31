@@ -19,3 +19,5 @@ Viljanen M and Parviainen H (2022) AI Applications and Regulation: Mapping the R
 Hertzberg B, How to Prevent AI Dangers With Ethical AI, july 22, 2020 from https://www.gartner.com/smarterwithgartner/how-to-prevent-ai-dangers-with-ethical-ai (accessed 1.31.23).  
 
 Grinbaum, A. and Adomaitis, L., 2022. The Ethical Need for Watermarks in Machine-Generated Language. arXiv preprint arXiv:2209.03118  
+
+Tränkner, M., & Schmiedel, B.(2019). Wie uns künstliche Intelligenz manipuliert - Hochschule der Medien/ Institute for Applied AI, Retrieved January 31, 2023 from https://ai.hdm-stuttgart.de/downloads/student-white-paper/Winter-1819/Manipulation-mit_Hilfe_von_KI.pdf
