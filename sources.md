@@ -4,7 +4,7 @@ Do These A.I.-Created Fake People Look Real to You? - The New York Times [WWW Do
 
 Gasser, U. & Almeida V. (2017): A Layered Model for IA Governance. Internet Governance, 58-62.  
 
-Grinbaum, A. and Adomaitis, L., 2022. The Ethical Need for Watermarks in Machine-Generated Language. arXiv preprint arXiv:2209.03118  
+Grinbaum, A. & Adomaitis, L., 2022. The Ethical Need for Watermarks in Machine-Generated Language. arXiv preprint arXiv:2209.03118  
 
 Hacker, P., Engel, A., & List, T. (20 de 01 de 2023). Verfassungsblog. Obtenido de Understanding and Regulating ChatGPT, and Other Large Generative AI Models: https://verfassungsblog.de/chatgpt/  
 
