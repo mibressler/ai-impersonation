@@ -1,8 +1,8 @@
-Djeffal C, Markus B. Siewert & Wurster S (2022): Role of the state and responsibility in governing artificial intelligence: a comparative analysis of AI strategies, Journal of European Public Policy.  
+Djeffal C, Siewert M & Wurster S (2022): Role of the state and responsibility in governing artificial intelligence: a comparative analysis of AI strategies, Journal of European Public Policy.  
 
 Do These A.I.-Created Fake People Look Real to You? - The New York Times [WWW Document], n.d. URL https://www.nytimes.com/interactive/2020/11/21/science/artificial-intelligence-fake-people-faces.html (accessed 1.31.23).  
 
-Gasser, U., & Almeida, V. (2017). A Layered Model for IA Governance. Internet Governance, 58-62.  
+Gasser U & Almeida V (2017): A Layered Model for IA Governance. Internet Governance, 58-62.  
 
 Grinbaum, A. and Adomaitis, L., 2022. The Ethical Need for Watermarks in Machine-Generated Language. arXiv preprint arXiv:2209.03118  
 
